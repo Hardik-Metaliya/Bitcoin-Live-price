@@ -1,5 +1,4 @@
 # Bitcoin Live Price Viewer
-(https://bitcoinwatch.netlify.app/)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 A basic Bitcoin live price viewer built using a public crypto API. It allows users to see the current price of Bitcoin in real-time.
@@ -15,7 +14,7 @@ A basic Bitcoin live price viewer built using a public crypto API. It allows use
 
 ## Demo
 
-Include a link or embed a live demo of your Bitcoin live price viewer. This could be a hosted version or a link to the repository where others can try it out.
+(https://bitcoinwatch.netlify.app/)
 
 ## Features
 
